@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyC1o3G-eg8qe1nIw94FN8rl3uY0QWpIBNA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>681892106549</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ru.daark.Socialcademy</string>
+	<key>PROJECT_ID</key>
+	<string>socialcademy-30286</string>
+	<key>STORAGE_BUCKET</key>
+	<string>socialcademy-30286.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:681892106549:ios:5872ae1725fa94bbf3fc7c</string>
+</dict>
+</plist>
